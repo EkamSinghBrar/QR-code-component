@@ -13,7 +13,7 @@ body{
     display: flex;
     align-items: center;
 }
-.container{
+main{
     margin: 60px auto;
     width: 340px;
 }
@@ -32,12 +32,12 @@ body{
 .text{
     text-align: center;
     margin: 20px 18px;
-    font-size: 15px;
 }
 
-.text h2{
+.text h1{
     color: hsl(218, 44%, 22%);
     padding: 5px 0;
+    font-size: 22px;
 }
 .text P{
     padding: 5px 0;
